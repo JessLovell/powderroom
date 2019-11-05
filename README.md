@@ -5,10 +5,10 @@ An application to review public restrooms and business restrooms. So you always 
 
 
 ## General Information
-- User Stories
-- Wire-frames
+- [User Stories](./assets/user-stories.md)
+- [Wire-frames](./assets/wire-frames.md)
 - Group Agreement
-- Project Timeline
+- [Project Timeline](./assets/timeline.md)
 - Contributors
 
 ## External Resources
